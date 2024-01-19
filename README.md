@@ -26,7 +26,7 @@
 
 ## About The Project
 
-Here you find some Python Files with quite a use. When i started python i wanted to do some of the things listed here but didnt know how. Here is your chance to see :) Everything is documented with markdowns.
+Here you find some Python Files with quite a use. When i started python i wanted to do some of the things listed here but didnt know how. Here is your chance to see :) Everything is documented with comments.
 
 ## Getting Started
 
