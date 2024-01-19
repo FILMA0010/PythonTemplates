@@ -19,4 +19,4 @@ def test(): # Dont forget to change this when you copy
 
 if __name__ == '__main__':
 #    app.run(host='0.0.0.0', ssl_context=('path/to/ssl_cert.pem', 'path/to/ssl_key.pem')) # Use if SSL (HTTPS)
-     app.run(host='0.0.0.0', port=port)
+     app.run(host='0.0.0.0', port=port) # Host is for public hosting, so others can connect. Otherwise only you can via the local connection
